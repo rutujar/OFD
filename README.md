@@ -4,7 +4,7 @@ It is a WEB Mini project under 2015 VTU CBCS scheme.
 
 # Instructions
 
-* Download Github OFD File[HERE](https://github.com/rutujar/OFD.git)
+* Download Github OFD File [HERE](https://github.com/rutujar/OFD.git)
 
 # BACK END
 
